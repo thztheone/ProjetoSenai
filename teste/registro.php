@@ -31,7 +31,7 @@
             <li><a class="dropdown-item" href="#">Visão</a></li>
             <li><a class="dropdown-item" href="#">Valor</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="?page=sb">Sobre nós</a></li>
+            <li><a class="dropdown-item" href="Sobre.php">Sobre nós</a></li>
           </ul>
        
       </ul>

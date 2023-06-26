@@ -16,7 +16,7 @@
   }
 
   if ($_POST['conta'] == 'AF'){
-    header('Location: registro.php');
+    header('Location: ADMhome.php');
    
 }
  ?>       
