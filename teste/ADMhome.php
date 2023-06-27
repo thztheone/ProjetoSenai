@@ -8,10 +8,13 @@
 </head>
   <body>
   <nav class="navbar bg-dark border-bottom border-bottom-dark" data-bs-theme="dark">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Pagina do administrador</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+  
+  <div class="container-fluid col-lg-6 d-flex align-items-center gradient-custom-2">
+  <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/lotus.webp"
+                    style="width: 80px;" alt="logo">  
+    <a class="navbar-brand">Pagina do Administrador</a>
+    <button class="navbar-toggler bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon "></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -57,7 +60,7 @@
   <input type="radio" class="btn-check" name="vbtn-radio" id="vbtn-radio1" autocomplete="off" checked>
   <label class="text-dark btn btn-outline-danger" for="vbtn-radio1">Ocupados no dia</label>
   <input type="radio" class="btn-check" name="vbtn-radio" id="vbtn-radio2" autocomplete="off">
-  <label class="text-dark btn btn-outline-danger" for="vbtn-radio2">Disponiveis no dia</label>
+  <label class="text-primary btn btn-outline-dark" for="vbtn-radio2">Disponiveis no dia</label>
 </div>
 <br>
 <br>

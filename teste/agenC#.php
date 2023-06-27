@@ -1,18 +1,19 @@
-<html>
-    <head>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <title>
-        Caminhão
-</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+  <script src="js/bootstrap.bundle.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
-  <body>
-  <nav class="navbar bg-dark border-bottom border-bottom-dark" data-bs-theme="dark">
+<body>
+<nav class="navbar bg-dark border-bottom border-bottom-dark" data-bs-theme="dark">
   
   <div class="container-fluid col-lg-6 d-flex align-items-center gradient-custom-2">
   <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/lotus.webp"
                     style="width: 80px;" alt="logo">  
-    <a class="navbar-brand">Pagina do Usuario</a>
+    <a class="navbar-brand">Pagina do Agendamento</a>
     <button class="navbar-toggler bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon "></span>
     </button>
@@ -47,39 +48,5 @@
     </div>
   </div>
 </nav>
-
- 
-<br>
- <br>
- <center>
- 
-
- <div class="btn-group btn-group-lg" role="group" aria-label="Large button group">
-   <input type="radio" class="btn-check" name="vbtn-radio" id="vbtn-radio1" autocomplete="off" checked>
-   <label class="text-dark btn btn-outline-danger" for="vbtn-radio1">Ver Agendamentos</label>
- </div>
-
- <br>
- <br>
- <p class="container rounded-5 shadow-lg p-3 mb-5 bg-body-tertiary rounded w-50 p-3 fw-semibold fs-5" id="info"></p>
- <script>
-
-   function botaoPressionado() {
-     var all = "Veiculos: Carro- placa 1 <br> Data de retirada: 12/06/2023 <br> Hora de retiradado: 12:00";
-
-     document.getElementById("info").innerHTML = all;
-
-   }
- 
-   var botao = document.getElementById("vbtn-radio1");
-
-   botao.onclick = botaoPressionado; 
- </script>
-   <a class="text-dark btn btn-outline-Dark bg-primary" href="agen.php">Página de Agendamento</a>
- </div>
- </center>  
-     
-
-
 </body>
 </html>
