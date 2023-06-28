@@ -16,9 +16,11 @@
   }
 
   if ($_POST['conta'] == 'AF'){
-    header('Location: ADMhome.php');
-   
+    header('Location: ADMhome.php');   
 }
- ?>       
+ ?> 
+  <form  action='agenC.php' method='POST'>
+ 
+  </form>
 </body>
 </html>
