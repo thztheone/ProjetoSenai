@@ -1,0 +1,31 @@
+[
+  {
+    "index":"0",
+    "carro": "Fox",
+    "nome": "Miguel",
+    "placa":"HXJ789",
+    "cpf":"888.888.888-00" 
+  },
+  {
+    "index":"1",
+    "carro": "Fox",
+    "nome": "Gabriel",
+    "placa":"HLJ789",
+    "cpf":"888.888.888-00" 
+  } ,
+  {
+    "index":"1",
+    "carro": "Fox",
+    "nome": "Gabriel",
+    "placa":"HLJ789",
+    "cpf":"888.888.888-00" 
+  } ,
+  {
+    "index":"1",
+    "carro": "Fox",
+    "nome": "Gabriel",
+    "placa":"HLJ789",
+    "cpf":"888.888.888-00" 
+  } 
+   
+]
