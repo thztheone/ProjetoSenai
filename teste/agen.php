@@ -31,11 +31,11 @@
         </li>
         <li class="nav-item text-white d-flex flex justify-content-start align-items-center">
           <span class="material-symbols-outlined ms-2">check_box</span>
-          <a class="nav-link" href="check.php">Check-in</a>
+          <a class="nav-link" href="checkin.php">Check-in</a>
         </li>
         <li class="nav-item text-white d-flex flex justify-content-start align-items-center">
           <span class="material-symbols-outlined ms-2">domain_verification_off</span>
-          <a class="nav-link" href="check.php">Check-out</a>
+          <a class="nav-link" href="checkout.php">Check-out</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">

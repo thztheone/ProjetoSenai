@@ -2,7 +2,7 @@ let dataTable;
 let dataTableIsInitialized=false;
 
 const dataTableOptions={
-    pageLength:3,
+    pageLength:1,
     autoWidth:true,
     destroy:true,
     language:{
@@ -53,5 +53,5 @@ const listUsers=async()=>{
 };
 
 window.addEventListener("load", async () => {
-    await initDateTable();
+    
 });

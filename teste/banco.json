@@ -1,31 +1,17 @@
 [
+  
   {
-    "index":"0",
-    "carro": "Fox",
-    "nome": "Miguel",
-    "placa":"HXJ789",
-    "cpf":"888.888.888-00" 
+    "index":"1",
+    "veiculo": "Fox",
+    "dr1": "17:00:00",
+    "hr1":"18:00:00",
+    "nome":"Thiago" 
   },
   {
     "index":"1",
-    "carro": "Fox",
-    "nome": "Gabriel",
-    "placa":"HLJ789",
-    "cpf":"888.888.888-00" 
-  } ,
-  {
-    "index":"1",
-    "carro": "Fox",
-    "nome": "Gabriel",
-    "placa":"HLJ789",
-    "cpf":"888.888.888-00" 
-  } ,
-  {
-    "index":"1",
-    "carro": "Fox",
-    "nome": "Gabriel",
-    "placa":"HLJ789",
-    "cpf":"888.888.888-00" 
-  } 
-   
+    "veiculo": "Fox",
+    "dr1": "17:10:00",
+    "hr1":"18:20:00",
+    "nome":"Thiago"
+  }
 ]
