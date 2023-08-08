@@ -1,0 +1,11 @@
+
+!!Aba de usuario!!
+Fazer a aba de check in e check out - ok
+Fazer o agendamnento (sempre que agendar precisa aparecer em historico)
+User so ver seus agendamentos, e o log
+
+!!Aba de administrador!!
+ADMhome = ver os historicos de agendamento (de todos os usuarios) - ok
+ADMcarros = ver os carros disponiveis e os indisponiveis
+ADMusuario = ver todos os usuario cadastrados no sistema - ok
+ADMlog = ver todos os blogs - ok
